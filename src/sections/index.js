@@ -1,4 +1,4 @@
-import Hero from './Hero';
+import Hero from './Hero'
 import PopularProducts from './PopularProducts';
 import CustomerReviews from './CustomerReviews';
 import Services from './Services';
