@@ -1,10 +1,4 @@
-// export default function App() {
-//   return (
-//     <h1 className="text-3xl font-bold underline">
-//       Hello world!
-//     </h1>
-//   )
-// }
+import { Hero, CustomerReviews, PopularProducts, Services, SpecialOffer, Subscribe, SuperQuality, Footer } from "./sections";
 
 const App = ()=>(
   <main className="relative">
