@@ -1,8 +1,9 @@
-# React + Vite
+# Simple Shoe Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a simple landing page created for the purpose of learning Tailwind CSS and React.
 
-Currently, two official plugins are available:
+## About
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This is a basic shoe landing page developed to explore the functionalities of Tailwind CSS and React. It serves as a practical learning exercise and may be expanded upon for personal or educational purposes.
+
+Feel free to explore the codebase and use it as a reference for your own projects.
